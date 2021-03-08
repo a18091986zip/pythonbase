@@ -1,3 +1,4 @@
+#
 def da_net(a):
     while True:
         if (a == 'да')|(a == 'нет'):
